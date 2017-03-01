@@ -202,7 +202,7 @@ Natural Language Processing
 -   [OpenNLP](http://opennlp.apache.org/) The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
 -   [SEAL](https://github.com/TeamCohen/SEAL) Set expander for any language described in this [paper](http://www.cs.cmu.edu/~wcohen/postscript/icdm-2007.pdf)
 -   [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) "Stanford CoreNLP provides a set of natural language analysis tools written in Java"
--   [SPLAT](https://github.com/meyersbs/SPLAT) "SPLAT, the Speech Processing and Linguistic Analysis Tool is an open source Python3.4 library and command line tool designed to be intuitive, efficient, and fast. Given a text, SPLAT can calculate a variety of metrics to help you with your rsearch!"
+-   [SPLAT](https://github.com/meyersbs/SPLAT) "SPLAT, the Speech Processing & Linguistic Analysis Tool is an open source Python3.4 library and command line tool designed to be intuitive, efficient, and fast. Given a text, SPLAT can calculate a variety of metrics to help you with your rsearch!"
 
 
 Applications
