@@ -52,7 +52,6 @@ Finite State Toolkits and Regular Expressions
 -   [dk.brics.automaton](http://www.brics.dk/automaton/) Java toolkit for FSAs and regular expression.
 -   [Fare](https://github.com/moodmosaic/Fare) Fare is a finite state and regular expression libary for the .NET framework written in C\#. am is a JavaScript library for working with automata and formal grammars for regular and context-free languages
 -   [Foma](https://github.com/mhulden/foma) Finite-state compiler and C library
--   [fsa](http:) Toolkit used in RWTH ASR engine
 -   [fsm2.0](http://tagh.de/tom/wp-content/uploads/fsm-12.6.2012.zip) Thomas Hanneforths fsm 2.0 library written C++ has a few nice operations such as three-way composition
 -   [fstrain](https://github.com/markusdr/fstrain) A toolkit for training finite-state models
 -   [jopenfst](https://github.com/steveash/jopenfst) Java port of the C++ OpenFst library; originally forked from the CMU Sphinx project
