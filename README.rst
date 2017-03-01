@@ -5,8 +5,14 @@ Speech and Natural Language Processing
    :target: https://github.com/sindresorhus/awesome
 A curated list of speech and natural language processing resources. Other lists can be found in this `list <https://github.com/bayandin/awesome-awesomeness>`_. If you want to contribute to this list (please do), send me a pull request.  All Sub-caterogires are  listed in alphabetical order
 
+
+Table of Contents
+-----------------
+- `Finite State Toolkits and Regular Expressions <#finite-state-toolkits-and-regular-expressions>`
+
 Finite State Toolkits and Regular Expressions
 ---------------------------------------------
+`Table of Contents <#table-of-contents>`
 - `AT&T FSM Library <http://www2.research.att.com/~fsmtools/fsm/>`_ The AT&T FSM libraryTM is a set of general-purpose software tools available for Unix, for building, combining, optimizing, and searching weighted finite-state acceptors and transducers.
 
 - `Carmel <https://github.com/graehl/carmel>`_ Finite-state toolkit, EM and Bayesian (Gibbs sampling) training for FST and context-free derivation forests/
@@ -19,7 +25,7 @@ Finite State Toolkits and Regular Expressions
   am is a JavaScript library for working with automata and formal grammars for
   regular and context-free languages
 
-- `Foma <https://code.google.com/p/foma/>`_ Finite-state compiler and C library 
+- `Foma <https://code.google.com/p/foma/>`_ Finite-state compiler and C library
 
 - `fsa <http:>`_ Toolkit used in  RWTH ASR engine
 
@@ -40,7 +46,7 @@ Finite State Toolkits and Regular Expressions
 
 - `n Shortest Path for PDT <https://github.com/kho/openfst>`_ n Shortest Path for PDT
 
-- `Noam <https://github.com/izuzak/noam>`__ 
+- `Noam <https://github.com/izuzak/noam>`__
   "Noam is a JavaScript library for working with automata and formal grammars for regular and context-free
   languages". Also has pretty cool examples using  `viz.js <https://github.com/mdaines/viz.js/>`_
 
@@ -53,17 +59,17 @@ Finite State Toolkits and Regular Expressions
 - `openlat <https://github.com/benob/openlat>`_ Toolkit for manipulating word
   lattice built on top of OpenFst. Includes support for reading and writing HTK
   compatible lattices.
-  
+
 - `PyFst <https://github.com/vchahun/pyfst>`_ Python interface to OpenFst
 
-- `SFST - Stuttgart Finite State Transducer Tools <http://www.ims.uni-stuttgart.de/tcl/SOFTWARE/SFST.html>`_ 
+- `SFST - Stuttgart Finite State Transducer Tools <http://www.ims.uni-stuttgart.de/tcl/SOFTWARE/SFST.html>`_
   "SFST is a toolbox for the implementation of morphological analysers and other
   tools which are based on finite state transducer technology."
-  
-- `Treba <https://code.google.com/p/treba/>`_ "Treba is a basic command-line tool for training, decoding, and calculating with weighted (probabilistic) finite state automata (PFSA) and Hidden Markov Models (HMMs)."
-  
 
-Many of the toools in the machine translation section also implement interesting graph and semiring operations.
+- `Treba <https://code.google.com/p/treba/>`_ "Treba is a basic command-line tool for training, decoding, and calculating with weighted (probabilistic) finite state automata (PFSA) and Hidden Markov Models (HMMs)."
+
+
+Many of the tools in the machine translation section also implement interesting graph and semiring operations.
 
 Language Modelling Toolkits
 ---------------------------
@@ -72,22 +78,22 @@ Language Modelling Toolkits
 
 - `Berkeley LM <http://code.google.com/p/berkeleylm/>`_
 
-- `Bigfatlm <https://github.com/jhclark/bigfatlm>`_ 
+- `Bigfatlm <https://github.com/jhclark/bigfatlm>`_
   Provides Hadoop training of Kneser-ney language models, written in Java.
 
 - `CSLM <http://www-lium.univ-lemans.fr/cslm/>`_ "Continuous Space Language
   Model toolkit.  CSLM toolkit is open-source software which implements the so-called continuous
   space language model.
-  
-- `DALM <https://github.com/jnory/DALM>`_ Double array language model. 
+
+- `DALM <https://github.com/jnory/DALM>`_ Double array language model.
 
 - `KenLM <http://kheafield.com/code/kenlm/>`_
   Kenneth Heafield's language model toolkit, uses a very fast and low memory
   representation.
-  
+
 - `lwlm <http://chasen.org/~daiti-m/dist/lwlm/>`_ lwlm is an exact, full Bayesian implementation of the Latent Words Language Model (Deschacht and Moens, 2009).
 
-- `Maximum Entropy Modeling <http://homepages.inf.ed.ac.uk/lzhang10/maxent.html>`_ 
+- `Maximum Entropy Modeling <http://homepages.inf.ed.ac.uk/lzhang10/maxent.html>`_
   Le Zhang has a comprehensive set of links related MaxEnt models.
 
 - `Maximum entropy language models: SRILM extension <http://www.phon.ioc.ee/dokuwiki/doku.php?id=people:tanel:srilm-me.en>`_
@@ -95,7 +101,7 @@ Language Modelling Toolkits
   language models to the SRILM toolkit. Currently, only N-gram features are
   supported"
 
-- `mitlm <https://code.google.com/p/mitlm/>`_ 
+- `mitlm <https://code.google.com/p/mitlm/>`_
   My personal favourite LM toolkit,  super fast and seems to get slightly higher
   accuracy.
 
@@ -105,17 +111,17 @@ Language Modelling Toolkits
   amounts of data. It supports modified absolute discounting and Kneser-Ney
   smoothing."
 
-- `OpenGrm <http://opengrm.org>`_ 
+- `OpenGrm <http://opengrm.org>`_
   Language modelling toolkit for use with OpenFst.
-  
+
 - `cpyp <https://github.com/redpony/cpyp>`_ C++ library for modeling with Pitman-Yor processes
-  
+
 - `RandLM <http://sourceforge.net/projects/randlm/>`_ Bloom filter based random language models
 
-- `RNNLM <http://www.fit.vutbr.cz/~imikolov/rnnlm/>`_ 
+- `RNNLM <http://www.fit.vutbr.cz/~imikolov/rnnlm/>`_
   Recurrent neural network language model toolkit.
 
-- `Refr <http://code.google.com/p/refr>`_ 
+- `Refr <http://code.google.com/p/refr>`_
   Re-ranking framework from the Johns-Hopkins  workshop on confusion language
   modelling.
 
@@ -137,10 +143,10 @@ Speech Recognition
 
 - `CMU Sphinx <http://cmusphinx.sourceforge.net/>`_ Open Source Toolkit For Speech
   Recognition Project by Carnegie Mellon University
-  
-- `HTK <http://htk.eng.cam.ac.uk/>`_ "The Hidden Markov Model Toolkit (HTK) is a 
+
+- `HTK <http://htk.eng.cam.ac.uk/>`_ "The Hidden Markov Model Toolkit (HTK) is a
   portable toolkit for building and manipulating hidden Markov models."
-  
+
 - `Juicer <https://github.com/idiap/juicer>`_  Juicer is a Weighted Finite State Transducer (WFST) based decoder for Automatic Speech Recognition (ASR).
 
 - `Julius <http://julius.sourceforge.jp/en_index.php>`_ "Julius is a high-performance, two-pass large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers."
@@ -150,8 +156,8 @@ Speech Recognition
 
 - `OpenDcd <http://opendcd.org/>`_ An Open Source WFST based Speech Recognition Decoder.
 
-- `Phonetisaurus <https://code.google.com/p/phonetisaurus/>`_ 
-  Josef Novak's super fast WFST based Phoneticizer, site also 
+- `Phonetisaurus <https://code.google.com/p/phonetisaurus/>`_
+  Josef Novak's super fast WFST based Phoneticizer, site also
   has some really nice  tutorials slides.
 
 - `Sail Align <https://github.com/nassosoassos/sail_align>`_ SailAlign is an open-source software toolkit for robust long speech-text alignment implementing an adaptive, iterative speech recognition and text alignment scheme that allows for the processing of very long (and possibly noisy) audio and is robust to transcription errors. It is mainly written as a perl library but its functionality also depends…
@@ -161,7 +167,7 @@ Speech Recognition
   "SCARF is a toolkit for doing speech recognition with segmental conditional
   random fields."
 
-- `trainc <https://code.google.com/p/trainc/>`_ 
+- `trainc <https://code.google.com/p/trainc/>`_
   David Rybach and Michael Riley's tool for direct construction of
   context-dependency transducers (Interspeech best paper).
 
@@ -172,7 +178,7 @@ Signal Processing
 --------------------
 
 - `An Interactive Source Separation Editor <http://isse.sourceforge.net/>`_ "ISSE is an open-source, freely available, cross-platform audio editing tool that allows a user to perform source separation by painting on time-frequency visualisations of sound."
-- `Bob <https://github.com/idiap/bob>`_ Bob is a free signal-processing and machine learning toolbox originally developed by the Biometrics group at Idiap Research Institute, in Switzerland. 
+- `Bob <https://github.com/idiap/bob>`_ Bob is a free signal-processing and machine learning toolbox originally developed by the Biometrics group at Idiap Research Institute, in Switzerland.
 - `Matlab Audio Processing Examples <http://www.ee.columbia.edu/~dpwe/resources/matlab/>`_
 - `SAcC - Subband Autocorrelation Classification Pitch Tracker <http://labrosa.ee.columbia.edu/projects/SAcC/>`_  "SAcC is a (compiled) Matlab script that performs noise- robust pitch tracking by classifying the autocorrelations of a set of subbands using an MLP neural network."
 
@@ -187,33 +193,33 @@ Speech Data
 
 - `cmudict <https://github.com/cmusphinx/cmudict>`_ CMUdict (the Carnegie Mellon Pronouncing Dictionary) is a free pronouncing dictionary of English.
 - `LibriSpeech ASR corpus <http://www.openslr.org/12/>`_ LibriSpeech is a corpus of approximately 1000 hours of 16kHz read English speech, prepared by Vassil Panayotov with the assistance of Daniel Povey. The data is derived from read audiobooks from the LibriVox project, and has been carefully segmented and aligned.
-- `TED-LIUM Corpus <http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus>`_ The TED-LIUM corpus was made from audio talks and their transcriptions available on the TED website. 
+- `TED-LIUM Corpus <http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus>`_ The TED-LIUM corpus was made from audio talks and their transcriptions available on the TED website.
 
 Machine Translation
 -----------------------
 
-- `Berkeley Aligner <https://code.google.com/p/berkeleyaligner/>`_ 
+- `Berkeley Aligner <https://code.google.com/p/berkeleyaligner/>`_
   "...a word alignment software package that implements recent innovations in
   unsupervised word alignment."
 
-- `cdec <https://github.com/redpony/cdec>`_ 
+- `cdec <https://github.com/redpony/cdec>`_
   "Decoder, aligner, and model optimizer for statistical machine translation and
   other structured prediction models based on (mostly) context-free formalisms"
 
-- `Jane <http://www-i6.informatik.rwth-aachen.de/jane/>`_ 
+- `Jane <http://www-i6.informatik.rwth-aachen.de/jane/>`_
   "Jane is RWTH's open source statistical machine translation toolkit. Jane
   supports state-of-the-art techniques for phrase-based and hierarchical
-  phrase-based machine translation." 
+  phrase-based machine translation."
 
-- `Joshua <http://joshua-decoder.org/>`_ 
+- `Joshua <http://joshua-decoder.org/>`_
   Hierarchical and syntax based machine translation decoder written in Java.
 
-- `Moses <http://www.statmt.org/moses/>`_ 
+- `Moses <http://www.statmt.org/moses/>`_
   Standard open source machine translation toolkit.
-  
+
 - `alignment-with-openfst <https://github.com/ldmt-muri/alignment-with-openfst>`_
 
-- `zmert <http://cs.jhu.edu/~ozaidan/zmert/>`_ 
+- `zmert <http://cs.jhu.edu/~ozaidan/zmert/>`_
   Nice Java Mert implementation by `Omar F. Zaidan <http://www.cs.jhu.edu/~ozaidan/>`_
 
 Machine Learning
@@ -223,20 +229,20 @@ Machine Learning
 - `libFM: Factorization Machine Library <http://libfm.org/>`_
 
 - `sofia-ml <https://code.google.com/p/sofia-ml/>`_ Fast incremental learning
-  algorithms for classification, regression, ranking from Google. 
+  algorithms for classification, regression, ranking from Google.
 
-- `Spearmint <https://github.com/JasperSnoek/spearmint>`_ 
+- `Spearmint <https://github.com/JasperSnoek/spearmint>`_
   Spearmint is a package to perform Bayesian optimization according to the
   algorithms outlined in the paper: Practical Bayesian Optimization of Machine
   Learning Algorithms Jasper Snoek, Hugo Larochelle and Ryan P. Adams Advances
   in Neural Information Processing Systems, 2012
-  
+
 
 Deep Learning
 ------------------------
 - `Benchmarks <https://github.com/soumith/convnet-benchmarks>`_ - Comparison of different convolution network implementations.
 
-- `Cafee <http://arxiv.org/pdf/1409.3215v1.pdf>`_ - Really active deep learning toolkit with support for cuDNN and lots of other backends. 
+- `Cafee <http://arxiv.org/pdf/1409.3215v1.pdf>`_ - Really active deep learning toolkit with support for cuDNN and lots of other backends.
 
 - `cuDNN <https://developer.nvidia.com/cudnn>`_ - Deep neural network from Nvidia with paper `here <http://arxiv.org/pdf/1410.0759.pdf>`_. `Torch 7 has support for cuDnn <https://github.com/soumith/cudnn.torch>`_ and `here <https://github.com/hannes-brt/cudnn-python-wrappers>`_ are some Python wrappers.
 
@@ -250,7 +256,7 @@ Deep Learning
 
 - `KALDI LSTM <https://github.com/dophist/kaldi-lstm>`_ C++ implementation of LSTM (Long Short Term Memory), in Kaldi's nnet1 framework. Used for automatic speech recognition, possibly language modeling etc.
 
-- `OxLM: Oxford Neural Language Modelling Toolkit <https://github.com/pauldb89/OxLM>`_ Neural network toolkit for machine translation described in the paper `here <https://ufal.mff.cuni.cz/pbml/102/art-baltescu-blunsom-hoang.pdf>`_ 
+- `OxLM: Oxford Neural Language Modelling Toolkit <https://github.com/pauldb89/OxLM>`_ Neural network toolkit for machine translation described in the paper `here <https://ufal.mff.cuni.cz/pbml/102/art-baltescu-blunsom-hoang.pdf>`_
 
 - `Neural Probabilistic Language Model Toolkit <http://nlg.isi.edu/software/nplm/>`_ "NPLM is a toolkit for training and using feedforward neural language models (Bengio, 2003). It is fast even for large vocabularies (100k or more): a model can be trained on a billion words of data in about a week, and can be queried in about 40 μs, which is usable inside a decoder for machine translation."
 
@@ -273,7 +279,7 @@ Applications
 
 Other Tools
 ----------------------
-- `GraphViz.sty <https://github.com/mprentice/GraphViz-sty>`_ 
+- `GraphViz.sty <https://github.com/mprentice/GraphViz-sty>`_
   Really handy tool adding dot languge directly to a LaTex document, useful for
   tweaking the small colorized WFST figure in papers and presentations.
 
@@ -281,7 +287,7 @@ Blogs
 --------
 
 - `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann
-- `cmusphinx <http://cmusphinx.sourceforge.net/>`_  CMU Sphinx related blog 
+- `cmusphinx <http://cmusphinx.sourceforge.net/>`_  CMU Sphinx related blog
 - `Language Log <http://languagelog.ldc.upenn.edu/nll/>`_
 - `LingPipe Blog <http://lingpipe-blog.com/>`_ Natural Language Processing and Text Analytics
 - `Natural Language Processing Blog <http://nlpers.blogspot.ch/>`_ by Hal Daumé III
