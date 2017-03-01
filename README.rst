@@ -8,7 +8,40 @@ A curated list of speech and natural language processing resources. Other lists 
 
 Table of Contents
 -----------------
+- `SaaS`_
 - `Finite State Toolkits and Regular Expressions`_
+- `Language Modelling Toolkits`_
+- `Speech Recognition`_
+- `Signal Processing`_
+- `Text-to-Speech`_
+- `Speech Data`_
+- `Machine Translation`_
+- `Machine Learning`_
+- `Deep Learning`_
+- `Natural Language Processing`_
+- `Applications`_
+- `Other Tools`_
+- `Blogs`_
+- `Books`_
+
+
+SaaS
+----
+`Table of Contents`_
+
+- `Google Cloud Natural Language API <https://cloud.google.com/natural-language/>`_
+
+- `IBM Watson Alchemy Language <https://www.ibm.com/watson/developercloud/alchemy-language.html>`_
+
+- `Microsoft Cognitive Service <https://www.microsoft.com/cognitive-services/en-us/text-analytics-api>`_
+
+- `Aylien <https://developer.aylien.com/text-api-demo>`_
+
+- `Indico <https://www.indico.io>`_
+
+- `TextRazor <https://www.textrazor.com>`_
+
+- `MeaningCloud <https://www.meaningcloud.com>`_
 
 
 Finite State Toolkits and Regular Expressions
@@ -75,6 +108,7 @@ Many of the tools in the machine translation section also implement interesting 
 
 Language Modelling Toolkits
 ---------------------------
+`Table of Contents`_
 
 - `Bayesian Recurrent Neural Network for Language Modeling <http://chien.cm.nctu.edu.tw/bayesian-recurrent-neural-network-for-language-modeling/>`_ This is a C/C++ implementation for Bayesian recurrent neural network for language modeling (BRNNLM)
 
@@ -134,6 +168,8 @@ Language Modelling Toolkits
 
 Speech Recognition
 -------------------
+`Table of Contents`_
+
 - `AaltoASR <https://github.com/aalto-speech>`_ Aalto Automatic Speech Recognition tools
 
 - `Barista <https://github.com/usc-sail/barista>`_ Barista is an open-source framework for concurrent speech processing.
@@ -178,6 +214,7 @@ Speech Recognition
 
 Signal Processing
 --------------------
+`Table of Contents`_
 
 - `An Interactive Source Separation Editor <http://isse.sourceforge.net/>`_ "ISSE is an open-source, freely available, cross-platform audio editing tool that allows a user to perform source separation by painting on time-frequency visualisations of sound."
 - `Bob <https://github.com/idiap/bob>`_ Bob is a free signal-processing and machine learning toolbox originally developed by the Biometrics group at Idiap Research Institute, in Switzerland.
@@ -186,12 +223,14 @@ Signal Processing
 
 Text-to-Speech
 -----------------
+`Table of Contents`_
 
 - `HTS <http://hts.sp.nitech.ac.jp/>`_ HMM-based speech synthesis
 - `RusPhonetizer <https://github.com/wilpert/RusPhonetizer>`_ Grammar rules and dictionaries for the phonetic transcription of Russian sentences
 
 Speech Data
 -------------
+`Table of Contents`_
 
 - `cmudict <https://github.com/cmusphinx/cmudict>`_ CMUdict (the Carnegie Mellon Pronouncing Dictionary) is a free pronouncing dictionary of English.
 - `LibriSpeech ASR corpus <http://www.openslr.org/12/>`_ LibriSpeech is a corpus of approximately 1000 hours of 16kHz read English speech, prepared by Vassil Panayotov with the assistance of Daniel Povey. The data is derived from read audiobooks from the LibriVox project, and has been carefully segmented and aligned.
@@ -199,6 +238,7 @@ Speech Data
 
 Machine Translation
 -----------------------
+`Table of Contents`_
 
 - `Berkeley Aligner <https://code.google.com/p/berkeleyaligner/>`_
   "...a word alignment software package that implements recent innovations in
@@ -226,6 +266,8 @@ Machine Translation
 
 Machine Learning
 -------------------
+`Table of Contents`_
+
 - `BIDData <https://github.com/BIDData>`_ BIDMat is a matrix library intended to support large-scale exploratory data analysis. Its sister library BIDMach implements the machine learning layer.
 
 - `libFM: Factorization Machine Library <http://libfm.org/>`_
@@ -242,6 +284,8 @@ Machine Learning
 
 Deep Learning
 ------------------------
+`Table of Contents`_
+
 - `Benchmarks <https://github.com/soumith/convnet-benchmarks>`_ - Comparison of different convolution network implementations.
 
 - `Cafee <http://arxiv.org/pdf/1409.3215v1.pdf>`_ - Really active deep learning toolkit with support for cuDNN and lots of other backends.
@@ -268,6 +312,7 @@ Deep Learning
 
 Natural Language Processing
 ----------------------------
+`Table of Contents`_
 
 - `BLLIP reranking parser <https://github.com/BLLIP/bllip-parser>`_ "BLLIP Parser is a statistical natural language parser including a generative constituent parser (first-stage) and discriminative maximum entropy reranker (second-stage)."
 - `OpenNLP <http://opennlp.apache.org/>`_ The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
@@ -276,17 +321,21 @@ Natural Language Processing
 
 Applications
 ----------------
+`Table of Contents`_
 
 - `Cloud ASR using PyKaldi <https://github.com/UFAL-DSG/cloud-asr>`_ "CloudASR is a software platform and a public ASR webservice."
 
 Other Tools
 ----------------------
+`Table of Contents`_
+
 - `GraphViz.sty <https://github.com/mprentice/GraphViz-sty>`_
   Really handy tool adding dot languge directly to a LaTex document, useful for
   tweaking the small colorized WFST figure in papers and presentations.
 
 Blogs
 --------
+`Table of Contents`_
 
 - `Between One and Zero <http://williamhartmann.wordpress.com/>`_ by William Hartmann
 - `cmusphinx <http://cmusphinx.sourceforge.net/>`_  CMU Sphinx related blog
@@ -297,6 +346,7 @@ Blogs
 
 Books
 --------
+`Table of Contents`_
 
  - `DEEP LEARNING: Methods and Applications <http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf>`_ By Li Deng and Dong Yu
  - `Foundations of Data Science <http://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf>`_ Draft by John Hopcroft and Ravindran Kannan
