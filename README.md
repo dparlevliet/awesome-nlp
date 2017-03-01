@@ -10,21 +10,21 @@ Other lists can be found in this [list](https://github.com/bayandin/awesome-awes
 Table of Contents
 -----------------
 
--   SaaS
--   Finite State Toolkits and Regular Expressions
--   Language Modelling Toolkits
--   Speech Recognition
--   Signal Processing
--   Text-to-Speech
--   Speech Data
--   Machine Translation
--   Machine Learning
--   Deep Learning
--   Natural Language Processing
--   Applications
--   Other Tools
--   Blogs
--   Books
+-   [SaaS](#saas)
+-   [Finite State Toolkits and Regular Expressions](#finite-state-toolkits-and-regular-expressions)
+-   [Language Modelling Toolkits](#language-modelling-toolkits)
+-   [Speech Recognition](#speech-recognition)
+-   [Signal Processing](#signal-processing)
+-   [Text-to-Speech](#text-to-speech)
+-   [Speech Data](#speech-data)
+-   [Machine Translation](#machine-translation)
+-   [Machine Learning](#machine-learning)
+-   [Deep Learning](#deep-learning)
+-   [Natural Language Processing](#natural-language-processing)
+-   [Applications](#applications)
+-   [Other Tools](#other-tools)
+-   [Blogs](#blogs)
+-   [Books](#books)
 
 
 SaaS
