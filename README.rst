@@ -8,11 +8,11 @@ A curated list of speech and natural language processing resources. Other lists 
 
 Table of Contents
 -----------------
-- `Finite State Toolkits and Regular Expressions <#finite-state-toolkits-and-regular-expressions>`
+- _`Finite State Toolkits and Regular Expressions <#finite-state-toolkits-and-regular-expressions>`
 
 Finite State Toolkits and Regular Expressions
 ---------------------------------------------
-`Table of Contents <#table-of-contents>`
+_`Table of Contents <#table-of-contents>`
 - `AT&T FSM Library <http://www2.research.att.com/~fsmtools/fsm/>`_ The AT&T FSM libraryTM is a set of general-purpose software tools available for Unix, for building, combining, optimizing, and searching weighted finite-state acceptors and transducers.
 
 - `Carmel <https://github.com/graehl/carmel>`_ Finite-state toolkit, EM and Bayesian (Gibbs sampling) training for FST and context-free derivation forests/
