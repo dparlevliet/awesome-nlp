@@ -39,6 +39,7 @@ SaaS
 -   [Indico](https://www.indico.io)
 -   [TextRazor](https://www.textrazor.com)
 -   [MeaningCloud](https://www.meaningcloud.com)
+-   [Rosette](https://www.rosette.com)
 
 
 Finite State Toolkits and Regular Expressions
