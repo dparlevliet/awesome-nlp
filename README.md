@@ -10,7 +10,8 @@ Other lists can be found in this [list](https://github.com/bayandin/awesome-awes
 Table of Contents
 -----------------
 
--   [SaaS](#saas)
+-   [SaaS](#saas-apis)
+  -     [NLP](#nlp-saas)
 -   [Finite State Toolkits and Regular Expressions](#finite-state-toolkits-and-regular-expressions)
 -   [Language Modelling Toolkits](#language-modelling-toolkits)
 -   [Speech Recognition](#speech-recognition)
@@ -27,11 +28,12 @@ Table of Contents
 -   [Books](#books)
 
 
-SaaS
-----
+SaaS Apis
+---------
 
 **[`^        back to top        ^`](#)**
 
+### NLP SaaS
 -   [Google Cloud Natural Language API](https://cloud.google.com/natural-language/)
 -   [IBM Watson Alchemy Language](https://www.ibm.com/watson/developercloud/alchemy-language.html)
 -   [Microsoft Cognitive Service](https://www.microsoft.com/cognitive-services/en-us/text-analytics-api)
