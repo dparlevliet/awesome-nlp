@@ -31,7 +31,7 @@ Table of Contents
 SaaS
 ----
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [Google Cloud Natural Language
     API](https://cloud.google.com/natural-language/)
@@ -47,7 +47,7 @@ Table of Contents
 Finite State Toolkits and Regular Expressions
 ---------------------------------------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [AT&T FSM Library](http://www2.research.att.com/~fsmtools/fsm/) The
     AT&T FSM libraryTM is a set of general-purpose software tools
@@ -116,7 +116,7 @@ interesting graph and semiring operations.
 Language Modelling Toolkits
 ---------------------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [Bayesian Recurrent Neural Network for Language
     Modeling](http://chien.cm.nctu.edu.tw/bayesian-recurrent-neural-network-for-language-modeling/)
@@ -169,7 +169,7 @@ Table of Contents
 Speech Recognition
 ------------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [AaltoASR](https://github.com/aalto-speech) Aalto Automatic Speech
     Recognition tools
@@ -220,7 +220,7 @@ Table of Contents
 Signal Processing
 -----------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [An Interactive Source Separation
     Editor](http://isse.sourceforge.net/) "ISSE is an open-source,
@@ -241,7 +241,7 @@ Table of Contents
 Text-to-Speech
 --------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [HTS](http://hts.sp.nitech.ac.jp/) HMM-based speech synthesis
 -   [RusPhonetizer](https://github.com/wilpert/RusPhonetizer) Grammar
@@ -251,7 +251,7 @@ Table of Contents
 Speech Data
 -----------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [cmudict](https://github.com/cmusphinx/cmudict) CMUdict (the
     Carnegie Mellon Pronouncing Dictionary) is a free pronouncing
@@ -269,7 +269,7 @@ Table of Contents
 Machine Translation
 -------------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [Berkeley Aligner](https://code.google.com/p/berkeleyaligner/) "...a
     word alignment software package that implements recent innovations
@@ -292,7 +292,7 @@ Table of Contents
 Machine Learning
 ----------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [BIDData](https://github.com/BIDData) BIDMat is a matrix library
     intended to support large-scale exploratory data analysis. Its
@@ -310,7 +310,7 @@ Table of Contents
 Deep Learning
 -------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [Benchmarks](https://github.com/soumith/convnet-benchmarks) -
     Comparison of different convolution network implementations.
@@ -356,7 +356,7 @@ Table of Contents
 Natural Language Processing
 ---------------------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [BLLIP reranking parser](https://github.com/BLLIP/bllip-parser)
     "BLLIP Parser is a statistical natural language parser including a
@@ -375,7 +375,7 @@ Table of Contents
 Applications
 ------------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [Cloud ASR using PyKaldi](https://github.com/UFAL-DSG/cloud-asr)
     "CloudASR is a software platform and a public ASR webservice."
@@ -383,7 +383,7 @@ Table of Contents
 Other Tools
 -----------
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [GraphViz.sty](https://github.com/mprentice/GraphViz-sty) Really
     handy tool adding dot languge directly to a LaTex document, useful
@@ -393,7 +393,7 @@ Table of Contents
 Blogs
 -----
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
 -   [Between One and Zero](http://williamhartmann.wordpress.com/) by
     William Hartmann
@@ -413,15 +413,15 @@ Table of Contents
 Books
 -----
 
-Table of Contents
+**[`^        back to top        ^`](#)**
 
-> -   [DEEP LEARNING: Methods and
->     Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
->     By Li Deng and Dong Yu
-> -   [Foundations of Data
->     Science](http://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf) Draft
->     by John Hopcroft and Ravindran Kannan
-> -   [Introduction to Matrix Methods and
->     Applications](http://stanford.edu/class/ee103/mma.pdf) (Working
->     Title) S. Boyd and L. Vandenberghe
+ -   [DEEP LEARNING: Methods and
+     Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
+     By Li Deng and Dong Yu
+ -   [Foundations of Data
+     Science](http://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf) Draft
+     by John Hopcroft and Ravindran Kannan
+ -   [Introduction to Matrix Methods and
+     Applications](http://stanford.edu/class/ee103/mma.pdf) (Working
+     Title) S. Boyd and L. Vandenberghe
 
